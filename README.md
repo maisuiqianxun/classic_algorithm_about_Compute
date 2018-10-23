@@ -1,2 +1,2 @@
 # classic_algorithm_about_Compute
-## The reposi
+The repository aims in coding some basic algorithms about computing intelligence, such as NSGA-2, MOED/A, etc.
